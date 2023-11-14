@@ -32,15 +32,16 @@ The following REQUIRED files are included:
 - [x] Our 🎥 Demo Video
   - [x] We have also added the Demo Video Link to the Group Info Form on the course portal.
 
+
+## Gif Demo
+
+<img src="Trendi.gif" title='Image Demo' width='250' alt='Image Demo' />
+
 ## 🎥 Demo Video
 
 Here's a video that demos all of the app's implemented features:
 
 https://github.com/Codepath-Group-29/Trendi/assets/87947158/5e39570a-b60b-461a-8ce7-da7759d01702
-
-## Gif
-
-<img src="Trendi.gif" title='Image Demo' width='250' alt='Image Demo' />
 
 ## Notes
 
