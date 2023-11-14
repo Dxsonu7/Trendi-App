@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.eightbitlab:supportrenderscriptblur:1.0.2@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/ff9ad06e1246f15792fd2d6820d791ac/transformed/jetified-supportrenderscriptblur-1.0.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/ff9ad06e1246f15792fd2d6820d791ac/transformed/jetified-supportrenderscriptblur-1.0.2/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.eightbitlab/supportrenderscriptblur/1.0.2/a1ae5943acc86cadbf4e7ea044cfb1df2d64fab3/supportrenderscriptblur-1.0.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.eightbitlab/supportrenderscriptblur/1.0.2/6d42783d4f8a58716d26a0b20b071e92bd7bcf65/supportrenderscriptblur-1.0.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

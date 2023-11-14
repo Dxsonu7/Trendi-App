@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.susion:image-viewer:1.0.2@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/de3357c0dec01f4e4a54ad1f5f34de61/transformed/jetified-image-viewer-1.0.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/de3357c0dec01f4e4a54ad1f5f34de61/transformed/jetified-image-viewer-1.0.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/de3357c0dec01f4e4a54ad1f5f34de61/transformed/jetified-image-viewer-1.0.2/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.susion/image-viewer/1.0.2/be63daadcbc34d0d7ebbdbd24c7eead3c981334a/image-viewer-1.0.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.susion/image-viewer/1.0.2/6fa835735726e3dc5bee06a5804d3dcb4af26c79/image-viewer-1.0.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

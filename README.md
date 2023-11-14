@@ -1,19 +1,16 @@
 <!-- (This is a comment) INSTRUCTIONS: Go through this page and fill out any **bolded** entries with their correct values.-->
 
-# AND101 Milestone 1 - **TRENDI**
+# AND101 Milestone 2 - **TRENDI**
 
 Submitted by:
 - **Brandon Newton**
 - **Sonu Gupta**
 - **Akrem Ahmed**
 
-Time spent: **3** hours spent in total
-
 ## Summary
 
-This document provides an overview, project spec, and wireframes for our team's capstone project: An app that **provides Country based trending movie listing**
+This document provides a summary of our project building process for our app, **Trendi**.
 
-If we had to describe this milestone in three (3) emojis, they would be: **:man_student: :man_technologist: :baby_chick:**
 
 ## Milestone Requirements
 
@@ -21,32 +18,30 @@ If we had to describe this milestone in three (3) emojis, they would be: **:man_
 
 The following REQUIRED features are completed:
 
-- [x] Creation of GitHub Organization and Group Project Repo
-- [x] Updated Course Portal group info with Group Name and App Description
+- [x] Assign features to each member of your group
+- [x] Establish a goal time for completing each feature
 
 The following REQUIRED files are included:
 
-- [x] Included 📄 `brainstorming.md`, which contains:
-  - [x] Our initial brainstorming ideas (6+ ideas)
-  - [x] 5-category evaluation of our top 3 ideas
-  - [x] Final app idea chosen
-- [x] Included 📄 `project_spec.md`, which contains:
-  - [x] App Overview: Description and evaluation
-  - [x] App Spec: User features, Chosen API(s), User Interactions
-  - [x] Wireframe image(s)
+- [x] Updated 📄 `project_spec.md`, which contains:
+  - [X] App Overview (Milestone 1)
+  - [X] App Spec (Milestone 1)
+  - [x] Checked off 2+ completed features
+  - [x] 2+ Videos/GIFs of build progress
 
-The following BONUS features are implemented:
+- [x] Our 🎥 Demo Video
+  - [x] We have also added the Demo Video Link to the Group Info Form on the course portal.
 
-- [x] Added digital wireframe/mockup image(s)
+## 🎥 Demo Video
 
+Here's a video that demos all of the app's implemented features:
 
-## Wireframe
-<img src="wireframe_prototype.png" alt="Markdown Monster icon" width='250' style="float: left; margin-right: 10px;" />
+https://github.com/Codepath-Group-29/Trendi/assets/87947158/5e39570a-b60b-461a-8ce7-da7759d01702
 
-<!-- The following EXTRA features are implemented:
+## Gif
 
-- [ ] List anything else that you added to improve your submission! -->
+<img src="Trendi.gif" title='Image Demo' width='250' alt='Image Demo' />
 
-<!-- ## Notes
+## Notes
 
-Here's a place for any other notes on this milestone! -->
+The project helped us explore the ins and outs of industry level android software development. 
