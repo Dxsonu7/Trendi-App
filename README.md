@@ -1,16 +1,14 @@
 <!-- (This is a comment) INSTRUCTIONS: Go through this page and fill out any **bolded** entries with their correct values.-->
 
-# AND101 Milestone 2 - **TRENDI**
-
-Submitted by:
-- **Brandon Newton**
-- **Sonu Gupta**
-- **Akrem Ahmed**
+# **TRENDI App**
 
 ## Summary
 
-This document provides a summary of our project building process for our app, **Trendi**.
+**Trendi** is an android app which allows users to find trending movies globally.
 
+## Gif Demo
+
+<img src="Trendi.gif" title='Image Demo' width='250' alt='Image Demo' />
 
 ## Milestone Requirements
 
@@ -33,9 +31,6 @@ The following REQUIRED files are included:
   - [x] We have also added the Demo Video Link to the Group Info Form on the course portal.
 
 
-## Gif Demo
-
-<img src="Trendi.gif" title='Image Demo' width='250' alt='Image Demo' />
 
 ## 🎥 Demo Video
 
